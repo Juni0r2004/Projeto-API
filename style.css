@@ -360,7 +360,7 @@ footer div{
     box-sizing: border-box;
     transform: rotate(-30deg) skew(10deg);
     }
-    #redes span{
+    #redes img{
     position: absolute;
     width: 50px;
     height: 50px;
@@ -369,26 +369,26 @@ footer div{
      font-size: 30px;
     line-height: 50px;
     }
-    #redes a:hover span:nth-child(5){
+    #redes a:hover img:nth-child(5){
      transform: translate(20px, -20px);
      opacity: 1;
     }
-    #redes a:hover span:nth-child(4){
+    #redes a:hover img:nth-child(4){
     background-color: #000;
      transform: translate(15px, -15px);
      opacity: 0.8;
     }
-    #redes a:hover span:nth-child(3){
+    #redes a:hover img:nth-child(3){
     background-color: #000;
      transform: translate(10px, -10px);
      opacity: 0.6;
     }
-    #redes a:hover span:nth-child(2){
+    #redes a:hover img:nth-child(2){
     background-color: #000;
      transform: translate(5px, -5px);
      opacity: 0.4;
     }
-    #redes a:hover span:nth-child(1){
+    #redes a:hover img:nth-child(1){
     background-color: #000;
      transform: translate(0,0);
      opacity: .2;
